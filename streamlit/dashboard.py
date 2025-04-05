@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_URL = "https://fastapi-ml-api.onrender.com/predict"  # Remplace par l’URL exacte de ton API
+API_URL = "https://projet7c.onrender.com/predict"  # Remplace par l’URL exacte de ton API
 
 st.title("🌸 Prédiction d'espèce d'iris")
 
