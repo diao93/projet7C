@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: fastapi-ml-api
+    name: api
     env: python
     plan: free
     buildCommand: "pip install -r requirements.txt"
